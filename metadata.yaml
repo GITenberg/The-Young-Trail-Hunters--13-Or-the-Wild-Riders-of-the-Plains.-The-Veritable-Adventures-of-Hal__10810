@@ -1,5 +1,8 @@
 _repo: The-Young-Trail-Hunters--13-Or-the-Wild-Riders-of-the-Plains.-The-Veritable-Adventures-of-Hal__10810
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cozzens, Samuel Woodworth
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '3693'
     url: http://www.gutenberg.org/2009/agents/3693
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10810#The-Young-Trail-Hunters--13-Or-the-Wild-Riders-of-the-Plains.-The-Veritable-Adventures-of-Hal_
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
